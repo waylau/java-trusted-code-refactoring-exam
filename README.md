@@ -1,6 +1,6 @@
-# Java Trusted Coding Exam. Java安可认证阶段考试/Java可信编码实现/Java面试题库
+# Java Trusted Coding Exam. Java安可认证阶段考试/Java可信代码重构/Java面试题库
 
-这是一个关于Java编程的题库，可用于安可认证阶段考试、可信编码实现、Java面试等。所有的题目都归档到了<https://github.com/waylau/java-trusted-code-refactoring-exam/issues>中。
+这是一个关于Java编程的题库，可用于安可认证阶段考试、可信代码重构、Java面试等。所有的题目都归档到了<https://github.com/waylau/java-trusted-code-refactoring-exam/issues>中。
 
 Java安可认证阶段考试包括：
 
